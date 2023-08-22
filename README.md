@@ -1,4 +1,13 @@
+![Readme Banner](https://raw.githubusercontent.com/glitchcodes/glitchcodes/6f3963b578d8865c0a6fb3ae5a4e0e9bfaaaccba/readme-banner.png)
+
 ### Hi there 👋
+My name is **Vincent Tampos**, I am studying at University of Santo Tomas taking BS Information Technology for my studies.
+
+You may look at my recent works by visiting my [website](https://glitchcodes.netlify.app)
+
+### Languages and Frameworks
+[<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' width='40' />](https://github.com/glitchcodes/) [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png' width='40' />](https://github.com/glitchcodes/) [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png' width='40'>](https://github.com/glitchcodes/) [<img src='https://glitchcodes.netlify.app/nuxt-logo.png' width='40'>](https://github.com/glitchcodes/) [<img src='https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png' width='40' />](https://github.com/glitchcodes) [<img src='https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png' width='40' />](https://github.com/glitchcodes) 
+[<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png' width='40' />](https://github.com/glitchcodes) 
 
 <!--
 **glitchcodes/glitchcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
